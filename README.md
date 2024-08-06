@@ -1,5 +1,5 @@
 # subdomain-status
-A Python script to check the status of subdomains and display it in a tabular format
+1. A Python script to check the status of subdomains and display it in a tabular format
 
 ## Requirements
 
@@ -9,9 +9,8 @@ A Python script to check the status of subdomains and display it in a tabular fo
 
 ## Installation
 
-1. **Clone the repository:**
-   ```sh
-  git clone https://github.com/shasingh01/subdomain-status.git
+ Clone the repository:
+ git clone https://github.com/shasingh01/subdomain-status.git
 
 2. Navigate to the project directory:
 3. cd subdomain-status
